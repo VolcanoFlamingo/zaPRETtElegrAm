@@ -1,6 +1,6 @@
 # zaPRETtElegrAm
 
-zaPRETtElegrAm возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+Обновлённая версия для Telegram в текущих условиях. Быстрее, стабильнее, надежнее
 
 zaPRETtElegrAm возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
